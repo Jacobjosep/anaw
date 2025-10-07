@@ -5,8 +5,8 @@ if (session_status() === PHP_SESSION_NONE) {
 
 // Database configuration
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "your_username";
+$password = "your_password";
 $dbname = "anaw_db";
 
 // Create connection
