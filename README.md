@@ -405,7 +405,7 @@ Capstone Project: PHP & MySQL Web Development
 **Contact:**
 - Email: your.jacob.joseph1@student.moringaschool.com
 - GitHub: [@jacobjosep](https://github.com/jacobjosep)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jacobjosepherishlo)
+- LinkedIn: [Jacob Joseph Erishlo ](https://linkedin.com/in/jacobjosepherishlo)
 
 ## 🙏 Acknowledgments
 
