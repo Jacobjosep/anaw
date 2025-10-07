@@ -398,14 +398,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[JACOB JOSEPH ERISHLO]**  
 Moringa School Student  
 Capstone Project: PHP & MySQL Web Development  
 
 **Contact:**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: your.jacob.joseph1@student.moringaschool.com
+- GitHub: [@jacobjosep](https://github.com/jacobjosep)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jacobjosepherishlo)
 
 ## 🙏 Acknowledgments
 
